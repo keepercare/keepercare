@@ -5,7 +5,7 @@
 </a>
   
 ## Resources
-- [Project Board](https://github.com/users/keepercare/projects/1)
+- [Project Board](https://github.com/users/keepercare/projects/1?fullscreen=true)
 - [Documentation](https://github.com/keepercare/documentation)
 - [Application](https://github.com/keepercare/application)
 - [Server](https://github.com/keepercare/server)
