@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**keepercare/keepercare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Keeper Care</h1>
+  
+<a href="https://keepercare.herokuapp.com">
+  Application link <img height="14" src="https://github.com/keepercare/documentation/blob/main/assets/logo512.png?raw=true"/>
+</a>
+  
+## Resources
+- [Project Board](https://github.com/users/keepercare/projects/1)
+- [Documentation](https://github.com/keepercare/documentation)
+- [Application](https://github.com/keepercare/application)
+- [Server](https://github.com/keepercare/server)
+> login to access
